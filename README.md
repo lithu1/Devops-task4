@@ -26,7 +26,7 @@ Provision a Docker container running Nginx using Terraform as Infrastructure as 
    - `terraform init`
    - `terraform plan`
    - `terraform apply`
-5. Verified Nginx running on `http://<EC2-PUBLIC-IP>:8080`
+5. Verified Nginx running on `http://51.20.60.177:8080`
 6. Cleaned up using `terraform destroy`
 
 # Access
