@@ -31,3 +31,5 @@ Provision a Docker container running Nginx using Terraform as Infrastructure as 
 
 # Access
 After applying the Terraform config, Nginx was accessible at:
+![image](https://github.com/user-attachments/assets/50a2227c-0cc3-41cb-bd20-ca86ed69c0a5)
+
