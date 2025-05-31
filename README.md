@@ -1,5 +1,5 @@
 # Devops-task4
-# 🚀 DevOps Task 3: Infrastructure as Code (IaC) with Terraform
+# 🚀 DevOps Task 4: Infrastructure as Code (IaC) with Terraform
 
 # Objective
 Provision a Docker container running Nginx using Terraform as Infrastructure as Code.
